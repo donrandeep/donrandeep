@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/86055057/155874435-fe1bfb1d-5ea9-400f-9870-74337477c91a.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pasindu  Randeep</h1>
 <h3 align="center">I'm a Web Application Developer from Sri Lanka.</h3>
@@ -16,7 +16,8 @@
 
 
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools:!()
+
 
 
 
