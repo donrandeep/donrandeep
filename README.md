@@ -24,7 +24,7 @@
 * PHP
 * HTML
 * CSS
-* Syber Security Cretified **[introduction](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)**
+* **[Syber Security Cretified (introduction)](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)**
    
    * Cyber Best Practices
    * Cybersecurity
