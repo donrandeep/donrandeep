@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at **[My github](https://github.com/donrandeep)**
 
-- 📫 How to reach me **donpasinduinbox@gmail.com**
+- 📫 How to reach me **inbox.donrandeep@gmail.com**
 
 
 ## Skills and Experiences:
