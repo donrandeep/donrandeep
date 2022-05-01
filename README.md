@@ -48,9 +48,7 @@
 
 
 <a href="https://www.facebook.com/pasindu.randeep.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pasindu.randeep.3/" height="30" width="40" /> </a>
-<a href="https://twitter.com/DonRandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/DonRandeep" height="30" width="40" /> </a>
+<a href="https://www.instagram.com/donrandeep/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/donrandeep/" height="30" width="40" /> </a>
+<a href="https://twitter.com/DonRandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/DonRandeep" height="30" width="40" /> </a>   
+
 </p>
-
-
-
-
