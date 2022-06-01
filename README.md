@@ -4,7 +4,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pasindu  Randeep</h1>
 <h3 align="center">I'm a Web Application Developer from Sri Lanka.</h3>
 
-![cover an](https://user-images.githubusercontent.com/86055057/171360217-c4cec94d-390c-415a-9c10-0ef30bf52e0b.gif)
+![1](https://user-images.githubusercontent.com/86055057/171360981-688428c2-cfa7-44f7-bf2e-38b5030cf1b6.png)
+
 
 ## 🙋‍♂️ About Me
 
