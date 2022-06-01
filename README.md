@@ -1,7 +1,7 @@
 <!--<p align="center">
 <a href="#"> <img src="https://user-images.githubusercontent.com/86055057/155875208-7cd297a1-a3ab-4299-9bed-41a8d85b1aac.gif" width="auto"></a>
 </p> -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pasindu  Randeep</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Pasindu  Randeep</h1>
 <h3 align="center">I'm a Web Application Developer from Sri Lanka.</h3>
 
 ![1](https://user-images.githubusercontent.com/86055057/171360981-688428c2-cfa7-44f7-bf2e-38b5030cf1b6.png)
