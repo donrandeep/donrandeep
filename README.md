@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pasindu  Randeep</h1>
 <h3 align="center">I'm a Web Application Developer from Sri Lanka.</h3>
 
-![Green Teal Geometric Modern Computer Programmer Code Editor Quotes for Instagram Post (2726 × 886 px) (2)](https://user-images.githubusercontent.com/86055057/171341112-ddc38e3b-53eb-4456-a5b5-b85bf0b5db9e.png)
+![cover an](https://user-images.githubusercontent.com/86055057/171360217-c4cec94d-390c-415a-9c10-0ef30bf52e0b.gif)
 
 ## 🙋‍♂️ About Me
 
