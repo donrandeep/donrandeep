@@ -21,7 +21,7 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=donrandeep&count_private=true&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=donrandeep&theme=radical)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=donrandeep&theme=radical)](https://git.io/streak-stats)-->
 ## Skills and Experiences:
 
 * Problem solving 
