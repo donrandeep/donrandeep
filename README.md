@@ -20,6 +20,8 @@
 - 🌐 visit  **[donrandeep.io](https://donrandeep.github.io/)**
 
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=donrandeep&count_private=true&show_icons=true&theme=radical)
+
 ## Skills and Experiences:
 * Problem solving
 * Algorithms
@@ -38,6 +40,10 @@
   ### Issued by **[CISCO](https://www.credly.com/badges/4d28f3a4-cd12-42e7-adbe-d627dcb11961/public_url)**
   <a href="https://www.credly.com/badges/4d28f3a4-cd12-42e7-adbe-d627dcb11961/public_url/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86055057/155881648-1a95ffe7-ed65-4863-9c46-6c6cbbd884ec.png" alt="digital badge" height="100" width="100" /> </a>
 
+
+
+
+![Most Use Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donrandeep&show_icons=true&theme=radical)
 ## 🚀 Languages and Tools:!
 
 
