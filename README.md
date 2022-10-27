@@ -6,7 +6,7 @@
 
 ![1](https://user-images.githubusercontent.com/86055057/171360981-688428c2-cfa7-44f7-bf2e-38b5030cf1b6.png)
 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Designer;Web+Developer;Front+End+Developer;Apps+Designer;Apps+Developer" alt="Typing SVG" /></a>
 ## 🙋‍♂️ About Me 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
