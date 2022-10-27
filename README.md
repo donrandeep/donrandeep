@@ -1,7 +1,7 @@
 <!--<p align="center">
 <a href="#"> <img src="https://user-images.githubusercontent.com/86055057/155875208-7cd297a1-a3ab-4299-9bed-41a8d85b1aac.gif" width="auto"></a>
 </p> -->
-<h1 align="center">Hi  I'm Pasindu  Randeep</h1>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3AF771&center=true&vCenter=true&width=435&lines=Hi+I'm+Pasindu+Randeep" alt="Typing SVG" /></a></p>
 <h3 align="center">I'm a Web Application Developer from Sri Lanka.</h3>
 
 ![1](https://user-images.githubusercontent.com/86055057/171360981-688428c2-cfa7-44f7-bf2e-38b5030cf1b6.png)
