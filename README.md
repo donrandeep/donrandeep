@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **[My github](https://github.com/donrandeep)**
 
-- 📫 How to reach me **contact@pasindurandeep.com**
+- 📫 How to reach me **contact@donrandeep.com**
 
 - 🌐 visit  **[donrandeep.com](https://donrandeep.com)**
 
